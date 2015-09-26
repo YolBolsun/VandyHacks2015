@@ -1,4 +1,4 @@
-
+/*
 #pragma strict
 
 @script ExecuteInEditMode
@@ -123,3 +123,4 @@ class GlobalFog extends PostEffectsBase {
 	    GL.PopMatrix ();
 	}		
 }
+*/

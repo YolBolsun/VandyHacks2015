@@ -1,4 +1,4 @@
-
+/*
 #pragma strict
 
 @script ExecuteInEditMode
@@ -96,3 +96,4 @@ class FastBloom extends PostEffectsBase {
 		RenderTexture.ReleaseTemporary (rt);
 	}	
 }
+    */
