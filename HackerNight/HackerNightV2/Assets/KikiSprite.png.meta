@@ -1,9 +1,20 @@
 fileFormatVersion: 2
 guid: 40aaac0f7e814634bb4d5762bc5ad695
-timeCreated: 1443226988
+timeCreated: 1443228129
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: KikiSprite_0
+    21300002: KikiSprite_1
+    21300004: KikiSprite_2
+    21300006: KikiSprite_3
+    21300008: KikiSprite_4
+    21300010: KikiSprite_5
+    21300012: KikiSprite_6
+    21300014: KikiSprite_7
+    21300016: KikiSprite_8
+    21300018: KikiSprite_9
+    21300020: KikiSprite_10
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -29,7 +40,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -48,7 +59,117 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: KikiSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KikiSprite_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 78
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KikiSprite_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 78
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KikiSprite_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 78
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KikiSprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KikiSprite_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 56
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KikiSprite_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 57
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KikiSprite_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 57
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KikiSprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KikiSprite_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KikiSprite_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
