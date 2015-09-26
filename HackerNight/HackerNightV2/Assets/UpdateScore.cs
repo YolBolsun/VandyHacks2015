@@ -11,6 +11,6 @@ public class UpdateScore : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		text.text = "Score: 0";
+		text.text = "Score: "+GameManager.score;
 	}
 }

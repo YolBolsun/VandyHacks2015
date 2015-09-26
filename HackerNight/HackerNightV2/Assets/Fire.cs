@@ -11,7 +11,7 @@ public class Fire : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKey (KeyCode.LeftShift)) {
+		if (Input.GetKey (KeyCode.LeftShift) && Time.frameCount % 5 == 0) {
 
 			GameObject temp = (GameObject)Instantiate (ammo, this.transform.position, new Quaternion());
 			temp.transform.Rotate(90f,90f,0f);
